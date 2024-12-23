@@ -1,0 +1,13 @@
+.store-links {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.store-links a {
+  display: inline-block;
+}
+
+.store-links img {
+  width: 150px;
+}
